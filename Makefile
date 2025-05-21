@@ -6,7 +6,7 @@ USERNAME = 新之助1225
 
 # 仓库命名空间和仓库名
 NAMESPACE = near-link
-NAME = near
+NAME = entertainment
 
 # 最终镜像完整路径
 IMAGE = $(REGISTRY_HOST)/$(NAMESPACE)/$(NAME)
